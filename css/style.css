@@ -226,13 +226,13 @@ header #top_white a{
 header #top_white a.logo img{
 	width:100%;
 	height:auto;
-	max-width:334px;
-	max-height:104px;
+	max-width:268px;
+	max-height:82px;
 }
 
 header ul.top_menu{
 	margin:0;
-	padding:1.8% 0;	/*padding:30px 0;*/
+	padding:1% 0;	/*padding:30px 0;*/
 	float:right;
 }
 
